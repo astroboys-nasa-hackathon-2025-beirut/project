@@ -1,0 +1,4 @@
+outputs/*
+!outputs/.gitkeep
+uploaded_files/*
+!uploaded_files/.gitkeep
