@@ -1,0 +1,32 @@
+{
+  "placeholderAudios": [
+    {
+      "id": "background1",
+      "description": "Space atmosphere ambient music 1",
+      "audioUrl": "/audio/ambient-soundscapes-007-space-atmosphere-304974.mp3",
+      "loop": true,
+      "autoplay": false
+    },
+    {
+      "id": "background2",
+      "description": "Space ambient music 2",
+      "audioUrl": "/audio/space-ambient-351305.mp3",
+      "loop": true,
+      "autoplay": false
+    },
+    {
+      "id": "slash",
+      "description": "Space slash sound effect",
+      "audioUrl": "/audio/space-slash-236689.mp3",
+      "loop": false,
+      "autoplay": false
+    },
+    {
+      "id": "horror",
+      "description": "Space slash sound effect",
+      "audioUrl": "/audio/ghost-horror-sound-382709.mp3",
+      "loop": false,
+      "autoplay": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "cropped-circle",
+      "description": "Cropped circular image",
+      "imageUrl": "/assets/cropped_circle_image.png",
+      "imageHint": "A circle-shaped image, possibly a logo"
+    },
+    {
+      "id": "kepler11-transits",
+      "description": "Kepler-11 transit observation",
+      "imageUrl": "/assets/Kepler11_transits.jpg",
+      "imageHint": "Transit light curve from the Kepler telescope"
+    },
+    {
+      "id": "space-apps-logo",
+      "description": "NASA Space Apps logo (white)",
+      "imageUrl": "/assets/Space_Apps_Logo_White.png",
+      "imageHint": "Hackathon logo"
+    },
+    {
+      "id": "team-logo",
+      "description": "Team logo image",
+      "imageUrl": "/assets/team_logo.jpeg",
+      "imageHint": "Our project team's identity logo"
+    },
+    {
+      "id": "drag-csv",
+      "description": "Drag and drop CSV file illustration",
+      "imageUrl": "/assets/drag_csv.png",
+      "imageHint": "Visual guide for uploading CSV files"
+    },
+    {
+      "id": "image-data",
+      "description": "Image data visualization",
+      "imageUrl": "/assets/image_data.png",
+      "imageHint": "Example of image-based data analysis"
+    },
+    {
+      "id": "prediction-score-image",
+      "description": "Prediction score for image data",
+      "imageUrl": "/assets/prediction_score_image_data.png",
+      "imageHint": "AI confidence score for image analysis"
+    },
+    {
+      "id": "prediction-score-tabular",
+      "description": "Prediction score for tabular data",
+      "imageUrl": "/assets/prediction_score_tabular_data.png",
+      "imageHint": "AI confidence score for tabular data analysis"
+    },
+    {
+      "id": "tabular-data",
+      "description": "Tabular data visualization",
+      "imageUrl": "/assets/tabular_data.png",
+      "imageHint": "Example of spreadsheet-like data structure"
+    },
+    {
+      "id": "upload-csv",
+      "description": "CSV file upload interface",
+      "imageUrl": "/assets/upload_csv.png",
+      "imageHint": "User interface for uploading CSV files"
+    },
+    {
+      "id": "tm-logo-square",
+      "description": "CSV file upload interface",
+      "imageUrl": "/assets/team_logo_square.jpeg",
+      "imageHint": "User interface for uploading CSV files"
+    }
+  ]
+}

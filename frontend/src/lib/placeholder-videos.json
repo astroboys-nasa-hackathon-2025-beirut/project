@@ -1,0 +1,46 @@
+{
+  "placeholderVideos": [
+    {
+      "id": "exo1",
+      "description": "3D exoplanet animation",
+      "videoUrl": "/videos/exo1.mp4",
+      "videoHint": "Looping 10-second exoplanet flyby"
+    },
+    {
+      "id": "solar_system",
+      "description": "Solar system rotation",
+      "videoUrl": "/videos/solar_system.mp4",
+      "videoHint": "Looping orbit animation"
+    },
+    {
+      "id": "space1",
+      "description": "Outer space panorama",
+      "videoUrl": "/videos/space1.mp4",
+      "videoHint": "Looping starfield animation"
+    },
+    {
+      "id": "space2",
+      "description": "Another space scene",
+      "videoUrl": "/videos/space2.mp4",
+      "videoHint": "Looping nebula animation"
+    },
+     {
+      "id": "exo2",
+      "description": "actual exoplanet 2",
+      "videoUrl": "/videos/exo2.mp4",
+      "videoHint": "Looping 10-second exoplanet flyby"
+    },
+    {
+      "id": "exo3",
+      "description": "actual exoplanet 3",
+      "videoUrl": "/videos/exo3.mp4",
+      "videoHint": "Looping 10-second exoplanet flyby"
+    },
+    {
+      "id": "space3",
+      "description": "spaaace",
+      "videoUrl": "/videos/215697_medium.mp4",
+      "videoHint": "Looping 10-second exoplanet flyby"
+    }
+  ]
+}
